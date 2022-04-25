@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "csv-parse": "^5.0.4",
+    "puppeteer": "^13.5.2",
+    "slugify": "^1.6.5"
+  }
+}

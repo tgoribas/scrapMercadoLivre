@@ -1,0 +1,987 @@
+{
+  "teclado-usb": [
+    [
+      {
+        "product": "Teclado Multilaser TC193 QWERTY português Brasil cor preto",
+        "price": "26,20",
+        "link": "https://www.mercadolivre.com.br/teclado-multilaser-tc193-qwerty-portugus-brasil-cor-preto/p/MLB8887155?pdp_filters=category:MLB418472#searchVariation=MLB8887155&position=31&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_875384-MLA32834052238_112019-W.webp"
+      },
+      {
+        "product": "Teclado Multilaser TC213 QWERTY português Brasil cor preto",
+        "price": "27,00",
+        "link": "https://www.mercadolivre.com.br/teclado-multilaser-tc213-qwerty-portugus-brasil-cor-preto/p/MLB8990376?pdp_filters=category:MLB418472#searchVariation=MLB8990376&position=2&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_725775-MLA32838204321_112019-W.webp"
+      },
+      {
+        "product": "Teclado Hoopson TPC-058G QWERTY português Brasil cor preto",
+        "price": "27,00",
+        "link": "https://www.mercadolivre.com.br/teclado-hoopson-tpc-058g-qwerty-portugus-brasil-cor-preto/p/MLB15989496?pdp_filters=category:MLB418472#searchVariation=MLB15989496&position=15&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_965463-MLA46737528543_072021-W.webp"
+      },
+      {
+        "product": "Teclado Hoopson TPC-058 QWERTY português Brasil cor preto",
+        "price": "28,30",
+        "link": "https://www.mercadolivre.com.br/teclado-hoopson-tpc-058-qwerty-portugus-brasil-cor-preto/p/MLB18230315?pdp_filters=category:MLB418472#searchVariation=MLB18230315&position=48&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_931699-MLA48699018047_122021-W.webp"
+      },
+      {
+        "product": "Teclado Deko Rl-k01 Qwerty Português Brasil Cor Preto Usb",
+        "price": "30,00",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=A1Ja6E1oH6x9z2emNMgNaywYErDCL1172cvCWUux3PS98qk9J45KJCdrBbNM7z17Kr%2FFY7XitSWDp8xLif2O8ogwvtoTD7YJ0RgFcKXptacPp29tgOdRTCdScncW4Bugvn%2FQb01LpP0HuNvaxJZ0yMkj%2FEPtjGUdZBF97VZHxx372Pn2u0U89lNLqg0WOiwKuLW1ssobAGkdWE1oeLJEkS08gSMlxt3KXh66l4xuF2OrQV4WXXfiG5br%2FFc2a6QzTUznL2kjkXfnpvCU71cjz8ub2fFoA8lvDD60r3iLwNpghZqyT9kHFDTDDy%2BiD%2Bd3ybC1hI55wJmbBoiy%2FTsJiu%2BcQ6SstigxmEFi85JbI9K2XTcwpWf%2Fwz52oqpaArfrwG1XvdrSwafr2BdEIF6W6VVqOmYbRSdAVhDprXR7TcUxaNM4q9D1GuNZ3PVLsgwGJfLkI9yPvsJdUqZcCui9OqqF74e3ZMhji4CdXD3hSfn%2FKQARJUPW5C3aI0rN%2FSrZo7huZW5CycgIbMwcRueOgLhkO%2FaMIcDnPYdsZun%2B7NsSace7u79On3EopPOa5o4TtPpK1o9zVu%2F81tNuWfEso4GyQfTuDKa65Pu4rRBzHHUjNbnTG0iLg%2FP3mEyuqoIpeZslXUqJznB8X8%2B75SQ%3D&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_770943-MLB48823040256_012022-W.webp"
+      },
+      {
+        "product": "Teclado Multilaser TC204 QWERTY português Brasil cor preto",
+        "price": "31,14",
+        "link": "https://www.mercadolivre.com.br/teclado-multilaser-tc204-qwerty-portugus-brasil-cor-preto/p/MLB15567476?pdp_filters=category:MLB418472#searchVariation=MLB15567476&position=7&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_611819-MLA43399614495_092020-W.webp"
+      },
+      {
+        "product": "Teclado Exbom BK-103 QWERTY português Brasil cor preto",
+        "price": "31,34",
+        "link": "https://www.mercadolivre.com.br/teclado-exbom-bk-103-qwerty-portugus-brasil-cor-preto/p/MLB15914478?pdp_filters=category:MLB418472#searchVariation=MLB15914478&position=30&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_856327-MLA45580924226_042021-W.webp"
+      },
+      {
+        "product": "Teclado Multilaser TC154 QWERTY português Brasil cor preto",
+        "price": "37,77",
+        "link": "https://www.mercadolivre.com.br/teclado-multilaser-tc154-qwerty-portugus-brasil-cor-preto/p/MLB15845965?pdp_filters=category:MLB418472#searchVariation=MLB15845965&position=6&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_701319-MLA45739527527_042021-W.webp"
+      },
+      {
+        "product": "Teclado Durawell DW-105 QWERTY cor preto",
+        "price": "42,51",
+        "link": "https://www.mercadolivre.com.br/teclado-durawell-dw-105-qwerty-cor-preto/p/MLB18218019?pdp_filters=category:MLB418472#searchVariation=MLB18218019&position=38&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_700089-MLA48698750156_122021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Tedge ML-GK150 QWERTY português Brasil cor preto com luz rainbow",
+        "price": "49,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-tedge-ml-gk150-qwerty-portugus-brasil-cor-preto-com-luz-rainbow/p/MLB18497191?pdp_filters=category:MLB418472#searchVariation=MLB18497191&position=5&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_633938-MLA48698750880_122021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Evolut EG-206RB QWERTY português Brasil cor preto com luz rainbow",
+        "price": "51,17",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-evolut-eg-206rb-qwerty-portugus-brasil-cor-preto-com-luz-rainbow/p/MLB16084759?pdp_filters=category:MLB418472#searchVariation=MLB16084759&position=3&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_720535-MLA43771584831_102020-W.webp"
+      },
+      {
+        "product": "Teclado gamer K-Mex KM-5228 QWERTY português Brasil cor preto com luz RGB",
+        "price": "53,34",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-k-mex-km-5228-qwerty-portugus-brasil-cor-preto-com-luz-rgb/p/MLB15989498?pdp_filters=category:MLB418472#searchVariation=MLB15989498&position=1&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_936489-MLA43581735140_092020-W.webp"
+      },
+      {
+        "product": "Teclado Knup KP-2043 QWERTY português Brasil cor preto com luz verde, vermelha e lilás",
+        "price": "55,00",
+        "link": "https://www.mercadolivre.com.br/teclado-knup-kp-2043-qwerty-portugus-brasil-cor-preto-com-luz-verde-vermelha-e-lilas/p/MLB9505166?pdp_filters=category:MLB418472#searchVariation=MLB9505166&position=47&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_812445-MLA32822736494_112019-W.webp"
+      },
+      {
+        "product": "Teclado gamer Evus Thunder TC-05 QWERTY português Brasil cor preto com luz azul/vermelho/roxo",
+        "price": "63,90",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-evus-thunder-tc-05-qwerty-portugus-brasil-cor-preto-com-luz-azulvermelhoroxo/p/MLB17359062?pdp_filters=category:MLB418472#searchVariation=MLB17359062&position=44&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_785440-MLA48245014820_112021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Exbom BK-G200 QWERTY português Brasil cor preto com luz RGB",
+        "price": "64,15",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-exbom-bk-g200-qwerty-portugus-brasil-cor-preto-com-luz-rgb/p/MLB8990363?pdp_filters=category:MLB418472#searchVariation=MLB8990363&position=27&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_798560-MLA44250944811_122020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Haiz HZ-100 QWERTY português Brasil com luz RGB",
+        "price": "69,90",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-haiz-hz-100-qwerty-portugus-brasil-com-luz-rgb/p/MLB14103100?pdp_filters=category:MLB418472#searchVariation=MLB14103100&position=9&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_997394-MLA41832953194_052020-W.webp"
+      },
+      {
+        "product": "Teclado Logitech K120 QWERTY português Brasil cor preto",
+        "price": "74,37",
+        "link": "https://www.mercadolivre.com.br/teclado-logitech-k120-qwerty-portugus-brasil-cor-preto/p/MLB16016004?pdp_filters=category:MLB418472#searchVariation=MLB16016004&position=18&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_748826-MLA45340981996_032021-W.webp"
+      },
+      {
+        "product": "Teclado Com Fio Usb Preto Logitech Slim",
+        "price": "74,65",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=IfJEackGNztj3m2zqkI0wtl6XQweO8qllMqCwPy7Hs30Inmula5tmpu2ajwCaa%2BpcnemLPF8OZsDZcsX84N4evxmI7f9sS8kKcQTqVWUVLerauNwIbH20nS57OwsvmtbvUDD75u9opHeltBMQHm8Zl99NWtXNwBcqjEJLq%2BuVBqo6FeBgvKTXFUJFCssueJwXUe3MDrsOd7MJmKFSC%2Fa%2FMLEJW1Pmc3vvl5ZWgXmZD10a96iC%2Bp9ttgIdiYjSEj1j9sgMIMcgaBNCs2TBC6Qz3wIR3Fpym5h4TcaGNDfWLTsP%2B1TPTRY%2Bt%2FMtYtQ6WuAVbD%2FxwXzPrHPNm%2B%2F6QkQbXXAv89PuZpgHTwIqUWWK6me21aM0qxCa80apNpEX4cjS20h1F0taj7uV1C6bJBSiAMQgvArkt4vu21VqnvanO8wS6YcNr3JiIK90weabt7ZfzCutJ14KYQADAIUc31lxy0qtHsglHpII8Z0DKUKtuotUQS1aRz20XMMjfFFb5j7BzdP4vrcOVYXNk2767vvXxgCer0p9UzT2YmjFihET7qj6WSNk4cJ%2BZi%2FF7dvSRb7aWSUx%2BIQ3KQMHKx0guxSPBjHE47FdTTXAuBoYlOyETuOjty1prLjodvyiEPX&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_985450-MLB48660288015_122021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Knup KP-2050 QWERTY português Brasil cor preto com luz RGB",
+        "price": "103,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-knup-kp-2050-qwerty-portugus-brasil-cor-preto-com-luz-rgb/p/MLB15706114?pdp_filters=category:MLB418472#searchVariation=MLB15706114&position=41&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_862529-MLA42716740585_072020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Weibo WB-539 QWERTY português Brasil cor preto com luz 3 cores",
+        "price": "104,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-weibo-wb-539-qwerty-portugus-brasil-cor-preto-com-luz-3-cores/p/MLB17474397?pdp_filters=category:MLB418472#searchVariation=MLB17474397&position=4&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_753756-MLA45307348722_032021-W.webp"
+      },
+      {
+        "product": "Teclado Gamer Semi Mecânico Iluminado Para Pc Ps4 Abnt2 Usb",
+        "price": "109,90",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=3DPgyfR4jkmr6JfNkdagdxiLo81oa3m7a6xP0z87Y6dct6xnB2dhPJDw29pg5noi7z5BEdPFk%2BOOBshjT2kSFVXDrmgLYIl7jT0ZSnuHshfMchdAY7ZUgyrv27HW%2BOgPGPLDu%2BmaC1Ba1flSrZyLXWTS7RGGdKFRNtuqHiI0J7M7Vb%2BSB%2F8F1%2FpfNMlYrcXTOtD0BDOesnsbL6o0lxXS3b0LOZJzfZV%2B9px2fLMsXL4COoINIxW%2BlrBrV0KjFVDKOKq8bWFoMYAaIdQJAsN%2BaX%2F5zkwakwjVJuyE8aZ9vZJ4pAcZ%2F3VDFWIhPLB1II0%2Bwjaw8xYzcNqbp0exNbbsTgTyR28N0mCED6rlp1na2moIbUCxtAa7%2Bc0XoLQ8yTt01zyHUSE4Is6mrpq7c6XtTOgpsYK%2BbtEVqISltwmIS%2BxpExEgmWLfkZXLf3zTpfBcUXNyn53z9fc0%2BRhrprSmZFfJHOYK6UoOwWSlW4inisVomQGCM7j04H6MQ%2B%2BXCsKQjxxwan2mOyxVs0M6Chp2%2BrP0wpu2D0XcOnFT%2BNe8TKSPhpXYjxYky57ERv7yxpQG7ItdIme%2BXgoCu0ohttwusVNhM5zqa8acAicfog4E9Z%2FzX4nBOlABtpZy23%2BlNe0wveuueKljN4H1eWlgTWBlgA%3D%3D&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_614151-MLB49653142490_042022-W.webp"
+      },
+      {
+        "product": "Kit Teclado + Mouse Tc240 Multimídia Usb Slim Com Fio Preto",
+        "price": "115,00",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=exuZJLWi6udvsoRc7MvMDBVcSBZfBj4Z62VnSVVyTybtCX5GynOCW7%2F0E2nHHPT5u5RQLu%2BzeFZ6eB2W6d6laSIs0kiZGb3tyCoTMso5CZL1cOZzIrs2iwRUjGQ%2FOK0q6J60eeQpm6E83nCLqnEghN30TSUKome%2FQ%2BIIQ1b%2F3Z9y9qX7rNq2Ri9vrpLSeuyOj%2FqcGrXDa6w9dIRzTnxHCL%2FGnoAjGaEXKvCpfojhaj6iSwV%2BPxrSj%2FaZ4LL3hA9vw9QK6MveI%2ByClhDDwnCDNeJDxbVkjwlZyaOtZFoBIvfkXX1%2F07ttH%2FDT7Cu56zoviGykMxiOmEGmHdzXHHCamF3OCgB%2FVjSNvbXKhKWmyK2QUPLrkTMkbMIcX1h48SSuDSCI%2F90yvgC0PTcGFyOGoxiKm%2BOdB9hC0hHNFWHU1TbBIYi5o4tsgU69oDkm4VTN4%2FsPPW6UAVo%2FPp6NgHkL0J6X6MQFJyagMTfamidSkdh0GTP0vdF2s3NmpSvr%2FxZq9uaqTVsWNqcIt2nBF3pwCvC6%2B7G%2BGdaHaNPCXddwGXsC2yYkj73kG9LjjiiwL7m619vXuOCB9aglldxpoqw9Z8d4gBLL%2B4ZgrHBZi2uQNtUw8L9ltQimUah0eob2LXFREx4wJhB9CRLL9q9d3FSK&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_702787-MLB44840017440_022021-W.webp"
+      },
+      {
+        "product": "Teclado sem fio Logitech K230 QWERTY português Brasil cor preto",
+        "price": "116,00",
+        "link": "https://www.mercadolivre.com.br/teclado-sem-fio-logitech-k230-qwerty-portugus-brasil-cor-preto/p/MLB6360373?pdp_filters=category:MLB418472#searchVariation=MLB6360373&position=40&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_791418-MLA32822905435_112019-W.webp"
+      },
+      {
+        "product": "Teclado sem fio Logitech K270 QWERTY português Brasil cor preto",
+        "price": "135,00",
+        "link": "https://www.mercadolivre.com.br/teclado-sem-fio-logitech-k270-qwerty-portugus-brasil-cor-preto/p/MLB6360374?pdp_filters=category:MLB418472#searchVariation=MLB6360374&position=10&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_826537-MLA43977268687_112020-W.webp"
+      },
+      {
+        "product": "Teclado Microsoft 600 QWERTY português Brasil cor preto",
+        "price": "140,00",
+        "link": "https://www.mercadolivre.com.br/teclado-microsoft-600-qwerty-portugus-brasil-cor-preto/p/MLB7177573?pdp_filters=category:MLB418472#searchVariation=MLB7177573&position=20&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_837822-MLA42717576201_072020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Evolut Assault EG-204RB QWERTY Blue inglês US cor preto com luz rainbow",
+        "price": "144,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-evolut-assault-eg-204rb-qwerty-blue-ingls-us-cor-preto-com-luz-rainbow/p/MLB15810126?pdp_filters=category:MLB418472#searchVariation=MLB15810126&position=43&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_689283-MLA43295532861_082020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Knup KP-TM010 QWERTY Outemu DIY Blue português Brasil cor preto com luz rainbow",
+        "price": "151,34",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-knup-kp-tm010-qwerty-outemu-diy-blue-portugus-brasil-cor-preto-com-luz-rainbow/p/MLB18432233?pdp_filters=category:MLB418472#searchVariation=MLB18432233&position=42&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_725606-MLA48646290809_122021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Multilaser Warrior TC209 QWERTY português Brasil cor preto e grafite com luz 3 cores",
+        "price": "165,60",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-multilaser-warrior-tc209-qwerty-portugus-brasil-cor-preto-e-grafite-com-luz-3-cores/p/MLB18617374?pdp_filters=category:MLB418472#searchVariation=MLB18617374&position=49&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_916638-MLA48551721458_122021-W.webp"
+      },
+      {
+        "product": "Teclado OEX Prismatic TC205 QWERTY português Brasil cor rosa com luz 6 cores",
+        "price": "166,00",
+        "link": "https://www.mercadolivre.com.br/teclado-oex-prismatic-tc205-qwerty-portugus-brasil-cor-rosa-com-luz-6-cores/p/MLB15835671?pdp_filters=category:MLB418472#searchVariation=MLB15835671&position=53&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_621479-MLA43582089706_092020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Redragon Karura K502 QWERTY português Brasil cor preto e vermelho com luz de 7 cores",
+        "price": "180,51",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-redragon-karura-k502-qwerty-portugus-brasil-cor-preto-e-vermelho-com-luz-de-7-cores/p/MLB9505170?pdp_filters=category:MLB418472#searchVariation=MLB9505170&position=28&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_813946-MLA45374756686_032021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Adamantiun Nemesis V2 AK-1001 QWERTY português Brasil cor cinza com luz RGB",
+        "price": "189,99",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-adamantiun-nemesis-v2-ak-1001-qwerty-portugus-brasil-cor-cinza-com-luz-rgb/p/MLB18514080?pdp_filters=category:MLB418472#searchVariation=MLB18514080&position=25&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_699302-MLA47890374209_102021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Fortrek Black Hawk QWERTY KRGD Blue português Brasil cor cinza-escuro com luz rainbow",
+        "price": "209,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-fortrek-black-hawk-qwerty-krgd-blue-portugus-brasil-cor-cinza-escuro-com-luz-rainbow/p/MLB15810124?pdp_filters=category:MLB418472#searchVariation=MLB15810124&position=21&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_642138-MLA43581511154_092020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Adamantiun Shuriken AK-2001 QWERTY Blue português Brasil cor prata",
+        "price": "227,49",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-adamantiun-shuriken-ak-2001-qwerty-blue-portugus-brasil-cor-prata/p/MLB15571931?pdp_filters=category:MLB418472#searchVariation=MLB15571931&position=51&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_994236-MLA45484595304_042021-W.webp"
+      },
+      {
+        "product": "Teclado bluetooth Logitech K380 QWERTY inglês US cor preto",
+        "price": "228,80",
+        "link": "https://www.mercadolivre.com.br/teclado-bluetooth-logitech-k380-qwerty-ingls-us-cor-preto/p/MLB10280907?pdp_filters=category:MLB418472#searchVariation=MLB10280907&position=46&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_752909-MLA47676203795_092021-W.webp"
+      },
+      {
+        "product": "Teclado gamer T-Dagger Bora T-TGK315 QWERTY Outemu MK2 DIY Red português Brasil cor preto com luz RGB",
+        "price": "245,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-t-dagger-bora-t-tgk315-qwerty-outemu-mk2-diy-red-portugus-brasil-cor-preto-com-luz-rgb/p/MLB18360827?pdp_filters=category:MLB418472#searchVariation=MLB18360827&position=16&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_971273-MLA47058943335_082021-W.webp"
+      },
+      {
+        "product": "Teclado gamer T-Dagger Bora T-TGK315 QWERTY Outemu MK2 DIY Brown português Brasil cor preto com luz RGB",
+        "price": "245,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-t-dagger-bora-t-tgk315-qwerty-outemu-mk2-diy-brown-portugus-brasil-cor-preto-com-luz-rgb/p/MLB16172091?pdp_filters=category:MLB418472#searchVariation=MLB16172091&position=17&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_928056-MLA43784419713_102020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Adamantiun Shuriken AK-2001 QWERTY Brown português Brasil cor prata",
+        "price": "246,99",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-adamantiun-shuriken-ak-2001-qwerty-brown-portugus-brasil-cor-prata/p/MLB17426346?pdp_filters=category:MLB418472#searchVariation=MLB17426346&position=45&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_698188-MLA45484595305_042021-W.webp"
+      },
+      {
+        "product": "Teclado bluetooth Logitech K480 QWERTY inglês US cor preto",
+        "price": "249,00",
+        "link": "https://www.mercadolivre.com.br/teclado-bluetooth-logitech-k480-qwerty-ingls-us-cor-preto/p/MLB6072197?pdp_filters=category:MLB418472#searchVariation=MLB6072197&position=13&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_681841-MLA44064242414_112020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Corsair K55 QWERTY Rubber Dome português Brasil cor preto com luz RGB",
+        "price": "257,91",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-corsair-k55-qwerty-rubber-dome-portugus-brasil-cor-preto-com-luz-rgb/p/MLB15172228?pdp_filters=category:MLB418472#searchVariation=MLB15172228&position=8&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_933755-MLA32821728056_112019-W.webp"
+      },
+      {
+        "product": "Teclado gamer Redragon Kumara K552 QWERTY Outemu Red português Brasil cor preto com luz vermelho",
+        "price": "258,90",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-redragon-kumara-k552-qwerty-outemu-red-portugus-brasil-cor-preto-com-luz-vermelho/p/MLB15104680?pdp_filters=category:MLB418472#searchVariation=MLB15104680&position=24&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_946965-MLA44438603618_122020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Redragon Mitra K551 QWERTY Outemu Blue português Brasil cor preto com luz vermelho",
+        "price": "269,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-redragon-mitra-k551-qwerty-outemu-blue-portugus-brasil-cor-preto-com-luz-vermelho/p/MLB16091923?pdp_filters=category:MLB418472#searchVariation=MLB16091923&position=19&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_967908-MLA46233140579_062021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Motospeed CK61 QWERTY Outemu Blue inglês US cor branco com luz RGB",
+        "price": "273,89",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-motospeed-ck61-qwerty-outemu-blue-ingls-us-cor-branco-com-luz-rgb/p/MLB18462227?pdp_filters=category:MLB418472#searchVariation=MLB18462227&position=39&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_981088-MLA47676329625_092021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Adamantiun Cronos AK-5000 QWERTY Blue inglês US cor preto com luz rainbow",
+        "price": "281,99",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-adamantiun-cronos-ak-5000-qwerty-blue-ingls-us-cor-preto-com-luz-rainbow/p/MLB15799067?pdp_filters=category:MLB418472#searchVariation=MLB15799067&position=37&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_816323-MLA43712471823_102020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Redragon Kumara K552 QWERTY Outemu Blue português Brasil cor branco com luz vermelho",
+        "price": "284,90",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-redragon-kumara-k552-qwerty-outemu-blue-portugus-brasil-cor-branco-com-luz-vermelho/p/MLB16209941?pdp_filters=category:MLB418472#searchVariation=MLB16209941&position=32&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_760239-MLA44438448895_122020-W.webp"
+      },
+      {
+        "product": "Teclado Mecânico Gamer Dual Shock - Barato  - Gshield",
+        "price": "289,97",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=BbhIpnC3AzClWe6b8ZK1frbS1n%2F9fvpQk7lTCk1aOznQsuSCFF5BCMR6wa4XQ9Lf6UgOZKv3zg10jFazEy%2FFHjKKfNfnTV3k7iA0hOus1%2Bj2HUlqNKh9Hz3MrW6kOY1M7R%2BUeWoNL%2FwiFugk9NHYN7hDIqsDkHrAqFKWZAwFelSgkcQtdtewPKp7Df5J%2F1Dt1d%2B%2BfK9WR6detzd%2FTltAwvCaxzoM9oTSwxQmWlIM6gex8cIU94FxlTrzbUIUQKN86a7%2F40ksaYUb%2Fyo2R1jIgy%2BxzV1bW1t2EBmONGEBDTxUjxzl%2F3wleo3WKke%2BT0FBshTWE6qqZqLl%2B%2Fq1mouCoM7fNhI%2BqeemWq2%2BPhtxko9485De0Z1WMioUlmpe8derHyZPqfntruYIWsmvktIP44vENtcHUaARaBycd3M%2B5Khu2NTZXAIsLtApk3FfQwWZdFH58qoDthjUXKsA2QMJMjxXcgI7aGqzMC5TRQDOWdx1aoyBCackDJXh%2FQxkQmv9MkjRkMU4qx26fFjwsNhyha8htXupKiIan19TNBQ73T%2BSTsg44HUSHJta%2Fx6D1JLPnH1XkxKEieoqwKvzWl4Vd2FH6%2FzM9XedBtot0c6nRYSDhw0xSFTQnWorlXT5jXdGRmCo7gw%3D&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_607021-MLB49022945627_022022-W.webp"
+      },
+      {
+        "product": "Teclado gamer bluetooth Motospeed CK62 QWERTY Outemu Red inglês US cor branco com luz RGB",
+        "price": "329,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-bluetooth-motospeed-ck62-qwerty-outemu-red-ingls-us-cor-branco-com-luz-rgb/p/MLB16046774?pdp_filters=category:MLB418472#searchVariation=MLB16046774&position=52&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_736302-MLA46504196506_062021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Redragon Sani K581 QWERTY Outemu MK2 Blue português Brasil cor preto com luz RGB",
+        "price": "338,07",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-redragon-sani-k581-qwerty-outemu-mk2-blue-portugus-brasil-cor-preto-com-luz-rgb/p/MLB16046778?pdp_filters=category:MLB418472#searchVariation=MLB16046778&position=54&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_925539-MLA44171727568_112020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Redragon Kala Lunar K557W QWERTY Outemu Mark.II DIY Blue português Brasil cor branco com luz RGB",
+        "price": "379,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-redragon-kala-lunar-k557w-qwerty-outemu-markii-diy-blue-portugus-brasil-cor-branco-com-luz-rgb/p/MLB15799055?pdp_filters=category:MLB418472#searchVariation=MLB15799055&position=50&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_669158-MLA44172141493_112020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Logitech Serie G G413 QWERTY Romer-G Tactile português Brasil cor carvão com luz vermelho",
+        "price": "434,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-logitech-serie-g-g413-qwerty-romer-g-tactile-portugus-brasil-cor-carvo-com-luz-vermelho/p/MLB15959013?pdp_filters=category:MLB418472#searchVariation=MLB15959013&position=29&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_888684-MLA45342134408_032021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Logitech Serie G G512 QWERTY GX Brown português Brasil cor carvão com luz RGB",
+        "price": "520,26",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-logitech-serie-g-g512-qwerty-gx-brown-portugus-brasil-cor-carvo-com-luz-rgb/p/MLB16143453?pdp_filters=category:MLB418472#searchVariation=MLB16143453&position=14&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_719870-MLA45390652002_032021-W.webp"
+      },
+      {
+        "product": "Teclado bluetooth Logitech Master Series MX Keys QWERTY inglês US cor grafite com luz branco",
+        "price": "605,00",
+        "link": "https://www.mercadolivre.com.br/teclado-bluetooth-logitech-master-series-mx-keys-qwerty-ingls-us-cor-grafite-com-luz-branco/p/MLB15802956?pdp_filters=category:MLB418472#searchVariation=MLB15802956&position=33&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_885381-MLA42716115181_072020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Corsair K68 QWERTY Cherry MX Red português Brasil cor preto com luz vermelho",
+        "price": "669,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-corsair-k68-qwerty-cherry-mx-red-portugus-brasil-cor-preto-com-luz-vermelho/p/MLB15181695?pdp_filters=category:MLB418472#searchVariation=MLB15181695&position=34&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_921820-MLA48733856470_012022-W.webp"
+      },
+      {
+        "product": "Teclado bluetooth Satechi Slim ST-BTSX2M QWERTY inglês US cor cinza e preto",
+        "price": "674,00",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=pGWXAndIsU%2BkI0sDcMO6kmQLajHeOTIB%2BAzztBTG0U5rATiLwDeUttmCuytLtkSlplpdWgknKKa40WcGzsOmLK4lZa7Q5bHOcUwQ%2B67PSvTCG3%2B6SvaB9ppa5aY0tsg%2B18Eahu0zIkd0cLRJyrs%2B6zbjUiZnkt3nKwWYqLY%2FLrBBfIUZc4RLVeu6%2Bmx2gsRHLdzv8OvVci4hD5NQrPeIsFTUUs3Pscg2ewB43qmhVpF2eMDnAKihzhP6tJFO3oiUc57dWToMj5dRvYisyem32iiZHDPDW5X0iY48ppVuS%2BkoIa1r5rF4GVoh7paRXJ9aZzV2vsYFHtuCT2DXUUvcfb6qp3c%2B667kh%2FNG19w62t0%2F3Mh1cRjXfklcvNVJZuGk9wIoRYViIZBh5Cx8i1NIHUMcqw7OrK9QAHADKi7REWxMe0FqdsB2Z92axC%2BkUbBLeAHkBoqknygMFsdKV2W5ENuYpF%2FxQaahrK0mzipWDUOcip%2BFg50X7mBnlzEWbrQVs5Q4FQ71FXmnhbXfMVaGLwJF3lPjhP8kKEOcn5fRuiIVt3PuXRBSRaccR%2BF1QvaEU6XyHOVKiMAqqV%2BzAB9b0tnNyTZb5M7doPO91ikoVfD36Qe2CjLDWDpWgWuyGD36vvhhZPCkWGRmOKsJvcSNAa3jZmZzBSWSGrv4iccmzoechoJpKstzRmcOxYNKc%2BXujlsNmgIe2yh7e4kMnz8xicUUtfOqYA29bVxBe2%2Fa%2BckUy0dSf1dNA71j53FvYPCuHJ5CP%2FTs&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_737173-MLA48698560039_122021-W.webp"
+      },
+      {
+        "product": "Teclado bluetooth Satechi Slim ST-BTSX3M QWERTY inglês US cor cinza",
+        "price": "694,00",
+        "link": "https://www.mercadolivre.com.br/teclado-bluetooth-satechi-slim-st-btsx3m-qwerty-ingls-us-cor-cinza/p/MLB18057505?pdp_filters=category:MLB418472#searchVariation=MLB18057505&position=26&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_867631-MLA46626837317_072021-W.webp"
+      }
+    ]
+  ]
+}{
+  "teclado-usb": [
+    [
+      {
+        "product": "Teclado Multilaser TC193 QWERTY português Brasil cor preto",
+        "price": "26,20",
+        "link": "https://www.mercadolivre.com.br/teclado-multilaser-tc193-qwerty-portugus-brasil-cor-preto/p/MLB8887155?pdp_filters=category:MLB418472#searchVariation=MLB8887155&position=31&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_875384-MLA32834052238_112019-W.webp"
+      },
+      {
+        "product": "Teclado Multilaser TC213 QWERTY português Brasil cor preto",
+        "price": "27,00",
+        "link": "https://www.mercadolivre.com.br/teclado-multilaser-tc213-qwerty-portugus-brasil-cor-preto/p/MLB8990376?pdp_filters=category:MLB418472#searchVariation=MLB8990376&position=2&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_725775-MLA32838204321_112019-W.webp"
+      },
+      {
+        "product": "Teclado Hoopson TPC-058G QWERTY português Brasil cor preto",
+        "price": "27,00",
+        "link": "https://www.mercadolivre.com.br/teclado-hoopson-tpc-058g-qwerty-portugus-brasil-cor-preto/p/MLB15989496?pdp_filters=category:MLB418472#searchVariation=MLB15989496&position=15&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_965463-MLA46737528543_072021-W.webp"
+      },
+      {
+        "product": "Teclado Hoopson TPC-058 QWERTY português Brasil cor preto",
+        "price": "28,30",
+        "link": "https://www.mercadolivre.com.br/teclado-hoopson-tpc-058-qwerty-portugus-brasil-cor-preto/p/MLB18230315?pdp_filters=category:MLB418472#searchVariation=MLB18230315&position=48&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_931699-MLA48699018047_122021-W.webp"
+      },
+      {
+        "product": "Teclado Deko Rl-k01 Qwerty Português Brasil Cor Preto Usb",
+        "price": "30,00",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=A1Ja6E1oH6x9z2emNMgNaywYErDCL1172cvCWUux3PS98qk9J45KJCdrBbNM7z17Kr%2FFY7XitSWDp8xLif2O8ogwvtoTD7YJ0RgFcKXptacPp29tgOdRTCdScncW4Bugvn%2FQb01LpP0HuNvaxJZ0yMkj%2FEPtjGUdZBF97VZHxx372Pn2u0U89lNLqg0WOiwKuLW1ssobAGkdWE1oeLJEkS08gSMlxt3KXh66l4xuF2OrQV4WXXfiG5br%2FFc2a6QzTUznL2kjkXfnpvCU71cjz8ub2fFoA8lvDD60r3iLwNpghZqyT9kHFDTDDy%2BiD%2Bd3ybC1hI55wJmbBoiy%2FTsJiu%2BcQ6SstigxmEFi85JbI9K2XTcwpWf%2Fwz52oqpaArfrwG1XvdrSwafr2BdEIF6W6VVqOmYbRSdAVhDprXR7TcUxaNM4q9D1GuNZ3PVLsgwGJfLkI9yPvsJdUqZcCui9OqqF74e3ZMhji4CdXD3hSfn%2FKQARJUPW5C3aI0rN%2FSrZo7huZW5CycgIbMwcRueOgLhkO%2FaMIcDnPYdsZun%2B7NsSace7u79On3EopPOa5o4TtPpK1o9zVu%2F81tNuWfEso4GyQfTuDKa65Pu4rRBzHHUjNbnTG0iLg%2FP3mEyuqoIpeZslXUqJznB8X8%2B75SQ%3D&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_770943-MLB48823040256_012022-W.webp"
+      },
+      {
+        "product": "Teclado Multilaser TC204 QWERTY português Brasil cor preto",
+        "price": "31,14",
+        "link": "https://www.mercadolivre.com.br/teclado-multilaser-tc204-qwerty-portugus-brasil-cor-preto/p/MLB15567476?pdp_filters=category:MLB418472#searchVariation=MLB15567476&position=7&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_611819-MLA43399614495_092020-W.webp"
+      },
+      {
+        "product": "Teclado Exbom BK-103 QWERTY português Brasil cor preto",
+        "price": "31,34",
+        "link": "https://www.mercadolivre.com.br/teclado-exbom-bk-103-qwerty-portugus-brasil-cor-preto/p/MLB15914478?pdp_filters=category:MLB418472#searchVariation=MLB15914478&position=30&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_856327-MLA45580924226_042021-W.webp"
+      },
+      {
+        "product": "Teclado Multilaser TC154 QWERTY português Brasil cor preto",
+        "price": "37,77",
+        "link": "https://www.mercadolivre.com.br/teclado-multilaser-tc154-qwerty-portugus-brasil-cor-preto/p/MLB15845965?pdp_filters=category:MLB418472#searchVariation=MLB15845965&position=6&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_701319-MLA45739527527_042021-W.webp"
+      },
+      {
+        "product": "Teclado Durawell DW-105 QWERTY cor preto",
+        "price": "42,51",
+        "link": "https://www.mercadolivre.com.br/teclado-durawell-dw-105-qwerty-cor-preto/p/MLB18218019?pdp_filters=category:MLB418472#searchVariation=MLB18218019&position=38&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_700089-MLA48698750156_122021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Tedge ML-GK150 QWERTY português Brasil cor preto com luz rainbow",
+        "price": "49,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-tedge-ml-gk150-qwerty-portugus-brasil-cor-preto-com-luz-rainbow/p/MLB18497191?pdp_filters=category:MLB418472#searchVariation=MLB18497191&position=5&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_633938-MLA48698750880_122021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Evolut EG-206RB QWERTY português Brasil cor preto com luz rainbow",
+        "price": "51,17",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-evolut-eg-206rb-qwerty-portugus-brasil-cor-preto-com-luz-rainbow/p/MLB16084759?pdp_filters=category:MLB418472#searchVariation=MLB16084759&position=3&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_720535-MLA43771584831_102020-W.webp"
+      },
+      {
+        "product": "Teclado gamer K-Mex KM-5228 QWERTY português Brasil cor preto com luz RGB",
+        "price": "53,34",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-k-mex-km-5228-qwerty-portugus-brasil-cor-preto-com-luz-rgb/p/MLB15989498?pdp_filters=category:MLB418472#searchVariation=MLB15989498&position=1&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_936489-MLA43581735140_092020-W.webp"
+      },
+      {
+        "product": "Teclado Knup KP-2043 QWERTY português Brasil cor preto com luz verde, vermelha e lilás",
+        "price": "55,00",
+        "link": "https://www.mercadolivre.com.br/teclado-knup-kp-2043-qwerty-portugus-brasil-cor-preto-com-luz-verde-vermelha-e-lilas/p/MLB9505166?pdp_filters=category:MLB418472#searchVariation=MLB9505166&position=47&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_812445-MLA32822736494_112019-W.webp"
+      },
+      {
+        "product": "Teclado gamer Evus Thunder TC-05 QWERTY português Brasil cor preto com luz azul/vermelho/roxo",
+        "price": "63,90",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-evus-thunder-tc-05-qwerty-portugus-brasil-cor-preto-com-luz-azulvermelhoroxo/p/MLB17359062?pdp_filters=category:MLB418472#searchVariation=MLB17359062&position=44&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_785440-MLA48245014820_112021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Exbom BK-G200 QWERTY português Brasil cor preto com luz RGB",
+        "price": "64,15",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-exbom-bk-g200-qwerty-portugus-brasil-cor-preto-com-luz-rgb/p/MLB8990363?pdp_filters=category:MLB418472#searchVariation=MLB8990363&position=27&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_798560-MLA44250944811_122020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Haiz HZ-100 QWERTY português Brasil com luz RGB",
+        "price": "69,90",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-haiz-hz-100-qwerty-portugus-brasil-com-luz-rgb/p/MLB14103100?pdp_filters=category:MLB418472#searchVariation=MLB14103100&position=9&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_997394-MLA41832953194_052020-W.webp"
+      },
+      {
+        "product": "Teclado Logitech K120 QWERTY português Brasil cor preto",
+        "price": "74,37",
+        "link": "https://www.mercadolivre.com.br/teclado-logitech-k120-qwerty-portugus-brasil-cor-preto/p/MLB16016004?pdp_filters=category:MLB418472#searchVariation=MLB16016004&position=18&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_748826-MLA45340981996_032021-W.webp"
+      },
+      {
+        "product": "Teclado Com Fio Usb Preto Logitech Slim",
+        "price": "74,65",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=IfJEackGNztj3m2zqkI0wtl6XQweO8qllMqCwPy7Hs30Inmula5tmpu2ajwCaa%2BpcnemLPF8OZsDZcsX84N4evxmI7f9sS8kKcQTqVWUVLerauNwIbH20nS57OwsvmtbvUDD75u9opHeltBMQHm8Zl99NWtXNwBcqjEJLq%2BuVBqo6FeBgvKTXFUJFCssueJwXUe3MDrsOd7MJmKFSC%2Fa%2FMLEJW1Pmc3vvl5ZWgXmZD10a96iC%2Bp9ttgIdiYjSEj1j9sgMIMcgaBNCs2TBC6Qz3wIR3Fpym5h4TcaGNDfWLTsP%2B1TPTRY%2Bt%2FMtYtQ6WuAVbD%2FxwXzPrHPNm%2B%2F6QkQbXXAv89PuZpgHTwIqUWWK6me21aM0qxCa80apNpEX4cjS20h1F0taj7uV1C6bJBSiAMQgvArkt4vu21VqnvanO8wS6YcNr3JiIK90weabt7ZfzCutJ14KYQADAIUc31lxy0qtHsglHpII8Z0DKUKtuotUQS1aRz20XMMjfFFb5j7BzdP4vrcOVYXNk2767vvXxgCer0p9UzT2YmjFihET7qj6WSNk4cJ%2BZi%2FF7dvSRb7aWSUx%2BIQ3KQMHKx0guxSPBjHE47FdTTXAuBoYlOyETuOjty1prLjodvyiEPX&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_985450-MLB48660288015_122021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Knup KP-2050 QWERTY português Brasil cor preto com luz RGB",
+        "price": "103,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-knup-kp-2050-qwerty-portugus-brasil-cor-preto-com-luz-rgb/p/MLB15706114?pdp_filters=category:MLB418472#searchVariation=MLB15706114&position=41&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_862529-MLA42716740585_072020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Weibo WB-539 QWERTY português Brasil cor preto com luz 3 cores",
+        "price": "104,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-weibo-wb-539-qwerty-portugus-brasil-cor-preto-com-luz-3-cores/p/MLB17474397?pdp_filters=category:MLB418472#searchVariation=MLB17474397&position=4&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_753756-MLA45307348722_032021-W.webp"
+      },
+      {
+        "product": "Teclado Gamer Semi Mecânico Iluminado Para Pc Ps4 Abnt2 Usb",
+        "price": "109,90",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=3DPgyfR4jkmr6JfNkdagdxiLo81oa3m7a6xP0z87Y6dct6xnB2dhPJDw29pg5noi7z5BEdPFk%2BOOBshjT2kSFVXDrmgLYIl7jT0ZSnuHshfMchdAY7ZUgyrv27HW%2BOgPGPLDu%2BmaC1Ba1flSrZyLXWTS7RGGdKFRNtuqHiI0J7M7Vb%2BSB%2F8F1%2FpfNMlYrcXTOtD0BDOesnsbL6o0lxXS3b0LOZJzfZV%2B9px2fLMsXL4COoINIxW%2BlrBrV0KjFVDKOKq8bWFoMYAaIdQJAsN%2BaX%2F5zkwakwjVJuyE8aZ9vZJ4pAcZ%2F3VDFWIhPLB1II0%2Bwjaw8xYzcNqbp0exNbbsTgTyR28N0mCED6rlp1na2moIbUCxtAa7%2Bc0XoLQ8yTt01zyHUSE4Is6mrpq7c6XtTOgpsYK%2BbtEVqISltwmIS%2BxpExEgmWLfkZXLf3zTpfBcUXNyn53z9fc0%2BRhrprSmZFfJHOYK6UoOwWSlW4inisVomQGCM7j04H6MQ%2B%2BXCsKQjxxwan2mOyxVs0M6Chp2%2BrP0wpu2D0XcOnFT%2BNe8TKSPhpXYjxYky57ERv7yxpQG7ItdIme%2BXgoCu0ohttwusVNhM5zqa8acAicfog4E9Z%2FzX4nBOlABtpZy23%2BlNe0wveuueKljN4H1eWlgTWBlgA%3D%3D&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_614151-MLB49653142490_042022-W.webp"
+      },
+      {
+        "product": "Kit Teclado + Mouse Tc240 Multimídia Usb Slim Com Fio Preto",
+        "price": "115,00",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=exuZJLWi6udvsoRc7MvMDBVcSBZfBj4Z62VnSVVyTybtCX5GynOCW7%2F0E2nHHPT5u5RQLu%2BzeFZ6eB2W6d6laSIs0kiZGb3tyCoTMso5CZL1cOZzIrs2iwRUjGQ%2FOK0q6J60eeQpm6E83nCLqnEghN30TSUKome%2FQ%2BIIQ1b%2F3Z9y9qX7rNq2Ri9vrpLSeuyOj%2FqcGrXDa6w9dIRzTnxHCL%2FGnoAjGaEXKvCpfojhaj6iSwV%2BPxrSj%2FaZ4LL3hA9vw9QK6MveI%2ByClhDDwnCDNeJDxbVkjwlZyaOtZFoBIvfkXX1%2F07ttH%2FDT7Cu56zoviGykMxiOmEGmHdzXHHCamF3OCgB%2FVjSNvbXKhKWmyK2QUPLrkTMkbMIcX1h48SSuDSCI%2F90yvgC0PTcGFyOGoxiKm%2BOdB9hC0hHNFWHU1TbBIYi5o4tsgU69oDkm4VTN4%2FsPPW6UAVo%2FPp6NgHkL0J6X6MQFJyagMTfamidSkdh0GTP0vdF2s3NmpSvr%2FxZq9uaqTVsWNqcIt2nBF3pwCvC6%2B7G%2BGdaHaNPCXddwGXsC2yYkj73kG9LjjiiwL7m619vXuOCB9aglldxpoqw9Z8d4gBLL%2B4ZgrHBZi2uQNtUw8L9ltQimUah0eob2LXFREx4wJhB9CRLL9q9d3FSK&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_702787-MLB44840017440_022021-W.webp"
+      },
+      {
+        "product": "Teclado sem fio Logitech K230 QWERTY português Brasil cor preto",
+        "price": "116,00",
+        "link": "https://www.mercadolivre.com.br/teclado-sem-fio-logitech-k230-qwerty-portugus-brasil-cor-preto/p/MLB6360373?pdp_filters=category:MLB418472#searchVariation=MLB6360373&position=40&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_791418-MLA32822905435_112019-W.webp"
+      },
+      {
+        "product": "Teclado sem fio Logitech K270 QWERTY português Brasil cor preto",
+        "price": "135,00",
+        "link": "https://www.mercadolivre.com.br/teclado-sem-fio-logitech-k270-qwerty-portugus-brasil-cor-preto/p/MLB6360374?pdp_filters=category:MLB418472#searchVariation=MLB6360374&position=10&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_826537-MLA43977268687_112020-W.webp"
+      },
+      {
+        "product": "Teclado Microsoft 600 QWERTY português Brasil cor preto",
+        "price": "140,00",
+        "link": "https://www.mercadolivre.com.br/teclado-microsoft-600-qwerty-portugus-brasil-cor-preto/p/MLB7177573?pdp_filters=category:MLB418472#searchVariation=MLB7177573&position=20&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_837822-MLA42717576201_072020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Evolut Assault EG-204RB QWERTY Blue inglês US cor preto com luz rainbow",
+        "price": "144,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-evolut-assault-eg-204rb-qwerty-blue-ingls-us-cor-preto-com-luz-rainbow/p/MLB15810126?pdp_filters=category:MLB418472#searchVariation=MLB15810126&position=43&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_689283-MLA43295532861_082020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Knup KP-TM010 QWERTY Outemu DIY Blue português Brasil cor preto com luz rainbow",
+        "price": "151,34",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-knup-kp-tm010-qwerty-outemu-diy-blue-portugus-brasil-cor-preto-com-luz-rainbow/p/MLB18432233?pdp_filters=category:MLB418472#searchVariation=MLB18432233&position=42&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_725606-MLA48646290809_122021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Multilaser Warrior TC209 QWERTY português Brasil cor preto e grafite com luz 3 cores",
+        "price": "165,60",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-multilaser-warrior-tc209-qwerty-portugus-brasil-cor-preto-e-grafite-com-luz-3-cores/p/MLB18617374?pdp_filters=category:MLB418472#searchVariation=MLB18617374&position=49&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_916638-MLA48551721458_122021-W.webp"
+      },
+      {
+        "product": "Teclado OEX Prismatic TC205 QWERTY português Brasil cor rosa com luz 6 cores",
+        "price": "166,00",
+        "link": "https://www.mercadolivre.com.br/teclado-oex-prismatic-tc205-qwerty-portugus-brasil-cor-rosa-com-luz-6-cores/p/MLB15835671?pdp_filters=category:MLB418472#searchVariation=MLB15835671&position=53&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_621479-MLA43582089706_092020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Redragon Karura K502 QWERTY português Brasil cor preto e vermelho com luz de 7 cores",
+        "price": "180,51",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-redragon-karura-k502-qwerty-portugus-brasil-cor-preto-e-vermelho-com-luz-de-7-cores/p/MLB9505170?pdp_filters=category:MLB418472#searchVariation=MLB9505170&position=28&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_813946-MLA45374756686_032021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Adamantiun Nemesis V2 AK-1001 QWERTY português Brasil cor cinza com luz RGB",
+        "price": "189,99",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-adamantiun-nemesis-v2-ak-1001-qwerty-portugus-brasil-cor-cinza-com-luz-rgb/p/MLB18514080?pdp_filters=category:MLB418472#searchVariation=MLB18514080&position=25&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_699302-MLA47890374209_102021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Fortrek Black Hawk QWERTY KRGD Blue português Brasil cor cinza-escuro com luz rainbow",
+        "price": "209,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-fortrek-black-hawk-qwerty-krgd-blue-portugus-brasil-cor-cinza-escuro-com-luz-rainbow/p/MLB15810124?pdp_filters=category:MLB418472#searchVariation=MLB15810124&position=21&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_642138-MLA43581511154_092020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Adamantiun Shuriken AK-2001 QWERTY Blue português Brasil cor prata",
+        "price": "227,49",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-adamantiun-shuriken-ak-2001-qwerty-blue-portugus-brasil-cor-prata/p/MLB15571931?pdp_filters=category:MLB418472#searchVariation=MLB15571931&position=51&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_994236-MLA45484595304_042021-W.webp"
+      },
+      {
+        "product": "Teclado bluetooth Logitech K380 QWERTY inglês US cor preto",
+        "price": "228,80",
+        "link": "https://www.mercadolivre.com.br/teclado-bluetooth-logitech-k380-qwerty-ingls-us-cor-preto/p/MLB10280907?pdp_filters=category:MLB418472#searchVariation=MLB10280907&position=46&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_752909-MLA47676203795_092021-W.webp"
+      },
+      {
+        "product": "Teclado gamer T-Dagger Bora T-TGK315 QWERTY Outemu MK2 DIY Red português Brasil cor preto com luz RGB",
+        "price": "245,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-t-dagger-bora-t-tgk315-qwerty-outemu-mk2-diy-red-portugus-brasil-cor-preto-com-luz-rgb/p/MLB18360827?pdp_filters=category:MLB418472#searchVariation=MLB18360827&position=16&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_971273-MLA47058943335_082021-W.webp"
+      },
+      {
+        "product": "Teclado gamer T-Dagger Bora T-TGK315 QWERTY Outemu MK2 DIY Brown português Brasil cor preto com luz RGB",
+        "price": "245,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-t-dagger-bora-t-tgk315-qwerty-outemu-mk2-diy-brown-portugus-brasil-cor-preto-com-luz-rgb/p/MLB16172091?pdp_filters=category:MLB418472#searchVariation=MLB16172091&position=17&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_928056-MLA43784419713_102020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Adamantiun Shuriken AK-2001 QWERTY Brown português Brasil cor prata",
+        "price": "246,99",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-adamantiun-shuriken-ak-2001-qwerty-brown-portugus-brasil-cor-prata/p/MLB17426346?pdp_filters=category:MLB418472#searchVariation=MLB17426346&position=45&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_698188-MLA45484595305_042021-W.webp"
+      },
+      {
+        "product": "Teclado bluetooth Logitech K480 QWERTY inglês US cor preto",
+        "price": "249,00",
+        "link": "https://www.mercadolivre.com.br/teclado-bluetooth-logitech-k480-qwerty-ingls-us-cor-preto/p/MLB6072197?pdp_filters=category:MLB418472#searchVariation=MLB6072197&position=13&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_681841-MLA44064242414_112020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Corsair K55 QWERTY Rubber Dome português Brasil cor preto com luz RGB",
+        "price": "257,91",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-corsair-k55-qwerty-rubber-dome-portugus-brasil-cor-preto-com-luz-rgb/p/MLB15172228?pdp_filters=category:MLB418472#searchVariation=MLB15172228&position=8&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_933755-MLA32821728056_112019-W.webp"
+      },
+      {
+        "product": "Teclado gamer Redragon Kumara K552 QWERTY Outemu Red português Brasil cor preto com luz vermelho",
+        "price": "258,90",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-redragon-kumara-k552-qwerty-outemu-red-portugus-brasil-cor-preto-com-luz-vermelho/p/MLB15104680?pdp_filters=category:MLB418472#searchVariation=MLB15104680&position=24&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_946965-MLA44438603618_122020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Redragon Mitra K551 QWERTY Outemu Blue português Brasil cor preto com luz vermelho",
+        "price": "269,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-redragon-mitra-k551-qwerty-outemu-blue-portugus-brasil-cor-preto-com-luz-vermelho/p/MLB16091923?pdp_filters=category:MLB418472#searchVariation=MLB16091923&position=19&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_967908-MLA46233140579_062021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Motospeed CK61 QWERTY Outemu Blue inglês US cor branco com luz RGB",
+        "price": "273,89",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-motospeed-ck61-qwerty-outemu-blue-ingls-us-cor-branco-com-luz-rgb/p/MLB18462227?pdp_filters=category:MLB418472#searchVariation=MLB18462227&position=39&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_981088-MLA47676329625_092021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Adamantiun Cronos AK-5000 QWERTY Blue inglês US cor preto com luz rainbow",
+        "price": "281,99",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-adamantiun-cronos-ak-5000-qwerty-blue-ingls-us-cor-preto-com-luz-rainbow/p/MLB15799067?pdp_filters=category:MLB418472#searchVariation=MLB15799067&position=37&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_816323-MLA43712471823_102020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Redragon Kumara K552 QWERTY Outemu Blue português Brasil cor branco com luz vermelho",
+        "price": "284,90",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-redragon-kumara-k552-qwerty-outemu-blue-portugus-brasil-cor-branco-com-luz-vermelho/p/MLB16209941?pdp_filters=category:MLB418472#searchVariation=MLB16209941&position=32&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_760239-MLA44438448895_122020-W.webp"
+      },
+      {
+        "product": "Teclado Mecânico Gamer Dual Shock - Barato  - Gshield",
+        "price": "289,97",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=BbhIpnC3AzClWe6b8ZK1frbS1n%2F9fvpQk7lTCk1aOznQsuSCFF5BCMR6wa4XQ9Lf6UgOZKv3zg10jFazEy%2FFHjKKfNfnTV3k7iA0hOus1%2Bj2HUlqNKh9Hz3MrW6kOY1M7R%2BUeWoNL%2FwiFugk9NHYN7hDIqsDkHrAqFKWZAwFelSgkcQtdtewPKp7Df5J%2F1Dt1d%2B%2BfK9WR6detzd%2FTltAwvCaxzoM9oTSwxQmWlIM6gex8cIU94FxlTrzbUIUQKN86a7%2F40ksaYUb%2Fyo2R1jIgy%2BxzV1bW1t2EBmONGEBDTxUjxzl%2F3wleo3WKke%2BT0FBshTWE6qqZqLl%2B%2Fq1mouCoM7fNhI%2BqeemWq2%2BPhtxko9485De0Z1WMioUlmpe8derHyZPqfntruYIWsmvktIP44vENtcHUaARaBycd3M%2B5Khu2NTZXAIsLtApk3FfQwWZdFH58qoDthjUXKsA2QMJMjxXcgI7aGqzMC5TRQDOWdx1aoyBCackDJXh%2FQxkQmv9MkjRkMU4qx26fFjwsNhyha8htXupKiIan19TNBQ73T%2BSTsg44HUSHJta%2Fx6D1JLPnH1XkxKEieoqwKvzWl4Vd2FH6%2FzM9XedBtot0c6nRYSDhw0xSFTQnWorlXT5jXdGRmCo7gw%3D&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_607021-MLB49022945627_022022-W.webp"
+      },
+      {
+        "product": "Teclado gamer bluetooth Motospeed CK62 QWERTY Outemu Red inglês US cor branco com luz RGB",
+        "price": "329,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-bluetooth-motospeed-ck62-qwerty-outemu-red-ingls-us-cor-branco-com-luz-rgb/p/MLB16046774?pdp_filters=category:MLB418472#searchVariation=MLB16046774&position=52&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_736302-MLA46504196506_062021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Redragon Sani K581 QWERTY Outemu MK2 Blue português Brasil cor preto com luz RGB",
+        "price": "338,07",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-redragon-sani-k581-qwerty-outemu-mk2-blue-portugus-brasil-cor-preto-com-luz-rgb/p/MLB16046778?pdp_filters=category:MLB418472#searchVariation=MLB16046778&position=54&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_925539-MLA44171727568_112020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Redragon Kala Lunar K557W QWERTY Outemu Mark.II DIY Blue português Brasil cor branco com luz RGB",
+        "price": "379,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-redragon-kala-lunar-k557w-qwerty-outemu-markii-diy-blue-portugus-brasil-cor-branco-com-luz-rgb/p/MLB15799055?pdp_filters=category:MLB418472#searchVariation=MLB15799055&position=50&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_669158-MLA44172141493_112020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Logitech Serie G G413 QWERTY Romer-G Tactile português Brasil cor carvão com luz vermelho",
+        "price": "434,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-logitech-serie-g-g413-qwerty-romer-g-tactile-portugus-brasil-cor-carvo-com-luz-vermelho/p/MLB15959013?pdp_filters=category:MLB418472#searchVariation=MLB15959013&position=29&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_888684-MLA45342134408_032021-W.webp"
+      },
+      {
+        "product": "Teclado gamer Logitech Serie G G512 QWERTY GX Brown português Brasil cor carvão com luz RGB",
+        "price": "520,26",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-logitech-serie-g-g512-qwerty-gx-brown-portugus-brasil-cor-carvo-com-luz-rgb/p/MLB16143453?pdp_filters=category:MLB418472#searchVariation=MLB16143453&position=14&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_719870-MLA45390652002_032021-W.webp"
+      },
+      {
+        "product": "Teclado bluetooth Logitech Master Series MX Keys QWERTY inglês US cor grafite com luz branco",
+        "price": "605,00",
+        "link": "https://www.mercadolivre.com.br/teclado-bluetooth-logitech-master-series-mx-keys-qwerty-ingls-us-cor-grafite-com-luz-branco/p/MLB15802956?pdp_filters=category:MLB418472#searchVariation=MLB15802956&position=33&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_885381-MLA42716115181_072020-W.webp"
+      },
+      {
+        "product": "Teclado gamer Corsair K68 QWERTY Cherry MX Red português Brasil cor preto com luz vermelho",
+        "price": "669,00",
+        "link": "https://www.mercadolivre.com.br/teclado-gamer-corsair-k68-qwerty-cherry-mx-red-portugus-brasil-cor-preto-com-luz-vermelho/p/MLB15181695?pdp_filters=category:MLB418472#searchVariation=MLB15181695&position=34&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_921820-MLA48733856470_012022-W.webp"
+      },
+      {
+        "product": "Teclado bluetooth Satechi Slim ST-BTSX2M QWERTY inglês US cor cinza e preto",
+        "price": "674,00",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=pGWXAndIsU%2BkI0sDcMO6kmQLajHeOTIB%2BAzztBTG0U5rATiLwDeUttmCuytLtkSlplpdWgknKKa40WcGzsOmLK4lZa7Q5bHOcUwQ%2B67PSvTCG3%2B6SvaB9ppa5aY0tsg%2B18Eahu0zIkd0cLRJyrs%2B6zbjUiZnkt3nKwWYqLY%2FLrBBfIUZc4RLVeu6%2Bmx2gsRHLdzv8OvVci4hD5NQrPeIsFTUUs3Pscg2ewB43qmhVpF2eMDnAKihzhP6tJFO3oiUc57dWToMj5dRvYisyem32iiZHDPDW5X0iY48ppVuS%2BkoIa1r5rF4GVoh7paRXJ9aZzV2vsYFHtuCT2DXUUvcfb6qp3c%2B667kh%2FNG19w62t0%2F3Mh1cRjXfklcvNVJZuGk9wIoRYViIZBh5Cx8i1NIHUMcqw7OrK9QAHADKi7REWxMe0FqdsB2Z92axC%2BkUbBLeAHkBoqknygMFsdKV2W5ENuYpF%2FxQaahrK0mzipWDUOcip%2BFg50X7mBnlzEWbrQVs5Q4FQ71FXmnhbXfMVaGLwJF3lPjhP8kKEOcn5fRuiIVt3PuXRBSRaccR%2BF1QvaEU6XyHOVKiMAqqV%2BzAB9b0tnNyTZb5M7doPO91ikoVfD36Qe2CjLDWDpWgWuyGD36vvhhZPCkWGRmOKsJvcSNAa3jZmZzBSWSGrv4iccmzoechoJpKstzRmcOxYNKc%2BXujlsNmgIe2yh7e4kMnz8xicUUtfOqYA29bVxBe2%2Fa%2BckUy0dSf1dNA71j53FvYPCuHJ5CP%2FTs&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_737173-MLA48698560039_122021-W.webp"
+      },
+      {
+        "product": "Teclado bluetooth Satechi Slim ST-BTSX3M QWERTY inglês US cor cinza",
+        "price": "694,00",
+        "link": "https://www.mercadolivre.com.br/teclado-bluetooth-satechi-slim-st-btsx3m-qwerty-ingls-us-cor-cinza/p/MLB18057505?pdp_filters=category:MLB418472#searchVariation=MLB18057505&position=26&search_layout=grid&type=product&tracking_id=b7831fd1-d604-4853-939c-e77e8ff1307c",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_867631-MLA46626837317_072021-W.webp"
+      }
+    ]
+  ],
+  "monitor": [
+    [
+      {
+        "product": "Monitor PCTop MLP170HDMI led 17 \" preto 100V/240V",
+        "price": "399,00",
+        "link": "https://www.mercadolivre.com.br/monitor-pctop-mlp170hdmi-led-17-preto-100v240v/p/MLB18459542?pdp_filters=category:MLB99245#searchVariation=MLB18459542&position=1&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_734440-MLA47873401457_102021-W.webp"
+      },
+      {
+        "product": "Monitor Pctop 17  Led Hdmi Vga Preto 110/220v - Mlp170hdmi",
+        "price": "399,00",
+        "link": "https://produto.mercadolivre.com.br/MLB-2145066489-monitor-pctop-17-led-hdmi-vga-preto-110220v-mlp170hdmi-_JM?searchVariation=174106158195#searchVariation=174106158195&position=54&search_layout=grid&type=item&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_734440-MLA47873401457_102021-W.webp"
+      },
+      {
+        "product": "Monitor PCTop PC1510M led 15 \" preto 100V/240V",
+        "price": "435,00",
+        "link": "https://www.mercadolivre.com.br/monitor-pctop-pc1510m-led-15-preto-100v240v/p/MLB18523272?pdp_filters=category:MLB99245#searchVariation=MLB18523272&position=10&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_915682-MLA47931512270_102021-W.webp"
+      },
+      {
+        "product": "Monitor Led 17.1  Bpc Widescreen Hdmi/vga Preto",
+        "price": "439,00",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=AmSSyq5AhBlUZpXY6NdGUAzXlTF%2BaxZNE7BkXP4uBxzOfqfSPoemn5L%2Fc3aYHTT3IZdOSw2QUAfjrFnP%2F00fl%2B1GIT0he%2FgWsO%2F8AcEb3TF4JvHhpA597mAPn19DjS0TXVV24IHoBiDuCCFlx5UiAFkrNdJ8hyyR75%2Bpre9zzqYJDClsUAHgNmWDzOCgsMhHk3KhQpL8rIuENqvtPfEoMaWif4%2FDJ%2FGQCrp4vMra0CWx8LS5eM4avvBOK0J85dUHclbe1lZVoc71sPXNv0ru%2FtoKADaDJVggyAUvJ2MftZHYTTbwwhG8crWm4SOSd9R5i%2FxKMgdQxNoLodYQJbKnF5f1tBJHJRmhNtlOwmz1vo6HZaOZAN9x8sATwz4DLzZ1hKYdRoP4e8JzZco%2B8E%2FizI1WGBjWD0DMBB4WfST7t9ES9N37O9RTDVf9fW3zU8kVw5sMmI1zy2NjWS72jNPbX75f4J6dMjv%2F2NFA9zMdJ0UsJRIDE7qjzaEz8SiBnDiQTCuD4gB85BOJGPJt3jTUC%2FvNJ%2B3yJsrJBkEd2%2Fe3Cu7btBlo10ZqHwnICQaryayL3rujpEGqbfNQ228DjJn4cnCe%2BvSKUUFZbcgO%2Fxn%2FoTrF%2F19oEa2eimhBJbJHdQ%2Byv9s%3D&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_811407-MLB49116958378_022022-W.webp"
+      },
+      {
+        "product": "Monitor Led 17.1  Bpc Widescreen Hdmi/vga Preto",
+        "price": "439,00",
+        "link": "https://produto.mercadolivre.com.br/MLB-2169161529-monitor-led-171-bpc-widescreen-hdmivga-preto-_JM#position=52&search_layout=grid&type=item&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_811407-MLB49116958378_022022-W.webp"
+      },
+      {
+        "product": "Monitor 17.1  Led Tronos Tn 17trs-hk7 Hdmi E Vga, Preto 4:3",
+        "price": "439,00",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=5gJuRynPLfElnuG%2BWgRbO3gcMIU8ZgY4APG2xdcOmR4Kr8QvLHNWc4qiI2WmbZGt0x%2F1osg%2BjDWltpesTQ5WTEKJe%2Bh97pseI5WVoxfHZNZC%2BieiSRgPIorWangsVVJaoI53hymcf0c9PcXiUpWcuRhYZbeGtQLQoQ98UoxZItoi2GXBgnw10d4xmKCQVIP2jjOh7CGkuCCljrF%2FNzH%2B7quHP7Q8%2B1MfBQ%2BTzpD10XGnY2Racjoadesx16tX1Qot4WAImQL65IIg5NYhjQ5q0c1meXGZ3h4lS9XKwGbfvLzRvvoCK%2BTswwer%2BAfmrGbR0ZitGJ%2F172MXci2%2BVSrMa6rFWoqZkeiecsQYt9L%2FBjLVzljL%2Bltr6QZF%2FN92GDZ9HvreVVsDm9lk3yJURgZ8qrlcr%2BDiMBrAJckiWgtNkq0Z%2BDrlGI4n0v2ONfBlXOimK6HjRmDUJc%2FV4YTLXrFwOg7pqTpYCJ4Esd1y1jHU823aCD2FIUFddFJIpjGNJX5HDZ5zeegfPlAwYYI8Ooa8IF4URP%2Fu%2FoNFDwWzQBsHWGWOJ%2FXPjAzNjOiALFfg4ioxRcHSHCgblU7Mf9aC8EraVgbhc%2Fa32OklHGq9mjMTp3tRYtwtAd1j1waqrxxkDxkvkQZBYTfwevqy2jIRNQ%3D%3D&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_689522-MLB49151897515_022022-W.webp"
+      },
+      {
+        "product": "Monitor gamer Brazil PC 15BPC-KAN led 15.4 \" preto 110V/220V",
+        "price": "536,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-brazil-pc-15bpc-kan-led-154-preto-110v220v/p/MLB16639044?pdp_filters=category:MLB99245#searchVariation=MLB16639044&position=38&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_621312-MLA45330719384_032021-W.webp"
+      },
+      {
+        "product": "Monitor HQ 20HQ-LED 19 \" preto 100V/240V",
+        "price": "660,00",
+        "link": "https://www.mercadolivre.com.br/monitor-hq-20hq-led-19-preto-100v240v/p/MLB14074450?pdp_filters=category:MLB99245#searchVariation=MLB14074450&position=34&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_957321-MLA41540252194_042020-W.webp"
+      },
+      {
+        "product": "Monitor Tronos TRS-HK19WY led 19 \" preto 100V/240V",
+        "price": "729,96",
+        "link": "https://www.mercadolivre.com.br/monitor-tronos-trs-hk19wy-led-19-preto-100v240v/p/MLB18641194?pdp_filters=category:MLB99245#searchVariation=MLB18641194&position=37&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_842457-MLA48690528181_122021-W.webp"
+      },
+      {
+        "product": "Monitor Bematech LM-15 led 15.6 \" preto 110V/240V",
+        "price": "738,89",
+        "link": "https://www.mercadolivre.com.br/monitor-bematech-lm-15-led-156-preto-110v240v/p/MLB15133726?pdp_filters=category:MLB99245#searchVariation=MLB15133726&position=49&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_973460-MLA32240769904_092019-W.webp"
+      },
+      {
+        "product": "Monitor Acer V6 V206HQL Abi LCD 19.5 \" preto 100V/240V",
+        "price": "799,00",
+        "link": "https://www.mercadolivre.com.br/monitor-acer-v6-v206hql-abi-lcd-195-preto-100v240v/p/MLB18616943?pdp_filters=category:MLB99245#searchVariation=MLB18616943&position=17&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_895950-MLA48690928071_122021-W.webp"
+      },
+      {
+        "product": "Monitor gamer LG 20MK400H led 19.5 \" preto 100V/240V",
+        "price": "839,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-lg-20mk400h-led-195-preto-100v240v/p/MLB15121865?pdp_filters=category:MLB99245#searchVariation=MLB15121865&position=31&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_992337-MLA45257363705_032021-W.webp"
+      },
+      {
+        "product": "Monitor Acer V6 V206HQL UM.IV6AA.A02 led 19.5 \" preto 100V/240V",
+        "price": "842,00",
+        "link": "https://www.mercadolivre.com.br/monitor-acer-v6-v206hql-umiv6aaa02-led-195-preto-100v240v/p/MLB15118139?pdp_filters=category:MLB99245#searchVariation=MLB15118139&position=27&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_656547-MLA45212724305_032021-W.webp"
+      },
+      {
+        "product": "Monitor AOC E970SWNL led 18.5 \" preto 100V/240V",
+        "price": "859,00",
+        "link": "https://www.mercadolivre.com.br/monitor-aoc-e970swnl-led-185-preto-100v240v/p/MLB6075190?pdp_filters=category:MLB99245#searchVariation=MLB6075190&position=30&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_744477-MLA45805483727_052021-W.webp"
+      },
+      {
+        "product": "Monitor AOC Serie 70 M2470SWH2 led 23.6 \" preto 100V/240V",
+        "price": "908,00",
+        "link": "https://www.mercadolivre.com.br/monitor-aoc-serie-70-m2470swh2-led-236-preto-100v240v/p/MLB18613337?pdp_filters=category:MLB99245#searchVariation=MLB18613337&position=4&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_730317-MLA48677910029_122021-W.webp"
+      },
+      {
+        "product": "Monitor Acer V6 V226HQL led 21.5 \" preto 100V/240V",
+        "price": "949,00",
+        "link": "https://www.mercadolivre.com.br/monitor-acer-v6-v226hql-led-215-preto-100v240v/p/MLB7568845?pdp_filters=category:MLB99245#searchVariation=MLB7568845&position=18&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_607457-MLA32045267050_092019-W.webp"
+      },
+      {
+        "product": "Monitor gamer LG 24MP400 LCD 23.8 \" preto 100V/240V",
+        "price": "968,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-lg-24mp400-lcd-238-preto-100v240v/p/MLB18910464?pdp_filters=category:MLB99245#searchVariation=MLB18910464&position=19&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_746305-MLA49314575407_032022-W.webp"
+      },
+      {
+        "product": "Monitor AOC Serie 70 E2270SWHEN led 21.5 \" preto 100V/240V",
+        "price": "996,90",
+        "link": "https://www.mercadolivre.com.br/monitor-aoc-serie-70-e2270swhen-led-215-preto-100v240v/p/MLB18948462?pdp_filters=category:MLB99245#searchVariation=MLB18948462&position=44&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_710784-MLA49436357133_032022-W.webp"
+      },
+      {
+        "product": "Monitor gamer Samsung LS22F350FH led 21.5 \" preto 100V/240V",
+        "price": "1030,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-samsung-ls22f350fh-led-215-preto-100v240v/p/MLB15238743?pdp_filters=category:MLB99245#searchVariation=MLB15238743&position=43&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_953070-MLA40176282442_122019-W.webp"
+      },
+      {
+        "product": "Monitor gamer AOC B1 Series 22B1HM5 LCD TFT 21.5 \" preto 100V/240V",
+        "price": "1032,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-aoc-b1-series-22b1hm5-lcd-tft-215-preto-100v240v/p/MLB18920441?pdp_filters=category:MLB99245#searchVariation=MLB18920441&position=29&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_935346-MLA49569127152_042022-W.webp"
+      },
+      {
+        "product": "Monitor gamer LG 22MK400H led 21.5 \" preto 100V/240V",
+        "price": "1049,00",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=nrAfvekeAqGZMcLaylLOfBLtABWUUOJQ%2F74%2B4EvwqzYTku7jprN6VLp%2BH9NJvcYeZde0j8VKn4IMcvbAQdHXm1i7EW2kAh3PadIK6e3AmGXY4r2dKzbZbLwTLZ6XMTwwiWMMwrj744zasCg%2BkrOEVSTOWd59O4x1kYBaLlcLk1GjRxx11GdeJi20Iqu7lwZl0Kmf2nM%2BYnECTYezijHzZJFD%2BfDf2NWHRB1ufDYnEqZzym7DYxp5Xi25cKDrnh1ry6Os77%2FtuZiZLURpd3NFTBqXq3dQwD3ONCTla3uZeAQdkHKTJPZs6X55pGnT4vAUpGqEEcUrKcIh3xXwIzBYBr303BA9Q4%2BRoXs6eYNqwsn%2B%2BT78%2BrR6t89UvTEuXocBOn714mmd3PznXhX7NDPa6vIsFWFFCGU1Dua7LuXg9M%2F3rJllnnSNvSpKJswoPW2GWGUiZnjhcaaj6gqrd0AqGfMYjf1K428XFaUyeLQHZcQ9hS5EydeCV116fFpE4ko9CC4inbiYcMU97dOOT%2FefyW%2F8ZDZEcVigx7k9PquDT5t24naJYAH3Ake55MEumevk%2FSZCien%2FWB2usGeCM5p6udIVhFmEyGFr9TLU639do7j8MaYb%2FU0xIpQCBIIGK68K9T9bK5qaa1RspKgyvUIEWsf2s1wBCrEtRhhWqVYQhNjDuRs1MannINtyuIWlmsG1bGW%2BKjyfXdUgeuSIGtodn80xyaSq7L8LobZ%2BKA%3D%3D&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_755330-MLA45212632004_032021-W.webp"
+      },
+      {
+        "product": "Monitor gamer LG 22MK400H led 21.5 \" preto 100V/240V",
+        "price": "1049,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-lg-22mk400h-led-215-preto-100v240v/p/MLB15112194?pdp_filters=category:MLB99245#searchVariation=MLB15112194&position=15&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_755330-MLA45212632004_032021-W.webp"
+      },
+      {
+        "product": "Monitor Philips V 221V8LW led 21.5 \" branco 100V/240V",
+        "price": "1091,00",
+        "link": "https://www.mercadolivre.com.br/monitor-philips-v-221v8lw-led-215-branco-100v240v/p/MLB18459544?pdp_filters=category:MLB99245#searchVariation=MLB18459544&position=28&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_679058-MLA47876942636_102021-W.webp"
+      },
+      {
+        "product": "Monitor Acer SA0 SA240Y led 23.8 \" preto 100V/240V",
+        "price": "1094,00",
+        "link": "https://www.mercadolivre.com.br/monitor-acer-sa0-sa240y-led-238-preto-100v240v/p/MLB18584358?pdp_filters=category:MLB99245#searchVariation=MLB18584358&position=21&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_644496-MLA48760421390_012022-W.webp"
+      },
+      {
+        "product": "Monitor gamer LG 24MK430H led 23.8 \" preto 100V/240V",
+        "price": "1099,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-lg-24mk430h-led-238-preto-100v240v/p/MLB15123398?pdp_filters=category:MLB99245#searchVariation=MLB15123398&position=3&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_785144-MLA45256008930_032021-W.webp"
+      },
+      {
+        "product": "Monitor gamer AOC B1 Series 22B1H led 21.5 \" preto 100V/240V",
+        "price": "1099,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-aoc-b1-series-22b1h-led-215-preto-100v240v/p/MLB17332706?pdp_filters=category:MLB99245#searchVariation=MLB17332706&position=47&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_669373-MLA46231870535_062021-W.webp"
+      },
+      {
+        "product": "Monitor gamer curvo Samsung F390 Series C24F390FH led 24 \" black high glossy 100V/240V",
+        "price": "1169,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-curvo-samsung-f390-series-c24f390fh-led-24-black-high-glossy-100v240v/p/MLB18206970?pdp_filters=category:MLB99245#searchVariation=MLB18206970&position=8&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_701184-MLA46737412951_072021-W.webp"
+      },
+      {
+        "product": "Monitor Acer KA242Y LCD 23.8 \" preto 100V/240V",
+        "price": "1190,00",
+        "link": "https://www.mercadolivre.com.br/monitor-acer-ka242y-lcd-238-preto-100v240v/p/MLB18641198?pdp_filters=category:MLB99245#searchVariation=MLB18641198&position=40&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_883667-MLA48810646660_012022-W.webp"
+      },
+      {
+        "product": "Monitor gamer Samsung S24D332H led 24 \" preto 100V/240V",
+        "price": "1199,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-samsung-s24d332h-led-24-preto-100v240v/p/MLB17325525?pdp_filters=category:MLB99245#searchVariation=MLB17325525&position=26&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_922577-MLA44708329110_012021-W.webp"
+      },
+      {
+        "product": "Monitor LG 24ML600M led 23.8 \" preto 100V/240V",
+        "price": "1250,00",
+        "link": "https://www.mercadolivre.com.br/monitor-lg-24ml600m-led-238-preto-100v240v/p/MLB18641199?pdp_filters=category:MLB99245#searchVariation=MLB18641199&position=20&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_611057-MLA48689809673_122021-W.webp"
+      },
+      {
+        "product": "Monitor gamer LG UltraWide 25UM58 led 25 \" preto 100V/240V",
+        "price": "1299,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-lg-ultrawide-25um58-led-25-preto-100v240v/p/MLB7568838?pdp_filters=category:MLB99245#searchVariation=MLB7568838&position=16&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_890797-MLA45212599404_032021-W.webp"
+      },
+      {
+        "product": "Monitor Acer SA0 SA270 led 27 \" preto 100V/240V",
+        "price": "1300,00",
+        "link": "https://www.mercadolivre.com.br/monitor-acer-sa0-sa270-led-27-preto-100v240v/p/MLB15389266?pdp_filters=category:MLB99245#searchVariation=MLB15389266&position=33&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_761017-MLA41540252231_042020-W.webp"
+      },
+      {
+        "product": "Monitor gamer Philips V 272V8A led 27 \" preto 100V/240V",
+        "price": "1357,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-philips-v-272v8a-led-27-preto-100v240v/p/MLB18011160?pdp_filters=category:MLB99245#searchVariation=MLB18011160&position=32&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_697015-MLA46301099354_062021-W.webp"
+      },
+      {
+        "product": "Monitor Acer V7 Series V277 led 27 \" preto 100V/240V",
+        "price": "1363,00",
+        "link": "https://www.mercadolivre.com.br/monitor-acer-v7-series-v277-led-27-preto-100v240v/p/MLB18523281?pdp_filters=category:MLB99245#searchVariation=MLB18523281&position=25&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_756446-MLA47932875134_102021-W.webp"
+      },
+      {
+        "product": "Monitor gamer AOC G2 24G2 led 24 \" preto e vermelho 100V/240V",
+        "price": "1372,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-aoc-g2-24g2-led-24-preto-e-vermelho-100v240v/p/MLB17976704?pdp_filters=category:MLB99245#searchVariation=MLB17976704&position=9&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_614140-MLA47598494862_092021-W.webp"
+      },
+      {
+        "product": "Monitor gamer LG UltraGear 24GN600 led 24 \" preto 100V/240V",
+        "price": "1388,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-lg-ultragear-24gn600-led-24-preto-100v240v/p/MLB18207798?pdp_filters=category:MLB99245#searchVariation=MLB18207798&position=6&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_907023-MLA46623342061_072021-W.webp"
+      },
+      {
+        "product": "Monitor gamer curvo Concórdia C240 led 23.8 \" preto 127V/220V",
+        "price": "1455,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-curvo-concordia-c240-led-238-preto-127v220v/p/MLB18576658?pdp_filters=category:MLB99245#searchVariation=MLB18576658&position=46&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_768828-MLA48764442874_012022-W.webp"
+      },
+      {
+        "product": "Monitor Gamer LG 23,8 Full Hd 144hz 1ms Hdmi Dp Ips Hdr",
+        "price": "1468,00",
+        "link": "https://produto.mercadolivre.com.br/MLB-2027754729-monitor-gamer-lg-238-full-hd-144hz-1ms-hdmi-dp-ips-hdr-_JM?searchVariation=173684725633#searchVariation=173684725633&position=53&search_layout=grid&type=item&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_883809-MLB47572008296_092021-W.webp"
+      },
+      {
+        "product": "Monitor gamer LG UltraWide 29WL500 led 29 \" preto 100V/240V",
+        "price": "1487,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-lg-ultrawide-29wl500-led-29-preto-100v240v/p/MLB16550890?pdp_filters=category:MLB99245#searchVariation=MLB16550890&position=45&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_682703-MLA45568859980_042021-W.webp"
+      },
+      {
+        "product": "Monitor gamer LG 29UM69G led 29 \" preto 100V/240V",
+        "price": "1499,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-lg-29um69g-led-29-preto-100v240v/p/MLB15077117?pdp_filters=category:MLB99245#searchVariation=MLB15077117&position=5&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_947110-MLA45570366101_042021-W.webp"
+      },
+      {
+        "product": "Monitor gamer curvo Samsung F390 Series C27F390FH led 27 \" preto 100V/240V",
+        "price": "1539,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-curvo-samsung-f390-series-c27f390fh-led-27-preto-100v240v/p/MLB7568851?pdp_filters=category:MLB99245#searchVariation=MLB7568851&position=24&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_657393-MLA32045104982_092019-W.webp"
+      },
+      {
+        "product": "Monitor gamer LG UltraWide 29WK600 led 29 \" branco e preto 100V/240V",
+        "price": "1699,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-lg-ultrawide-29wk600-led-29-branco-e-preto-100v240v/p/MLB10273899?pdp_filters=category:MLB99245#searchVariation=MLB10273899&position=2&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_921547-MLA45883799886_052021-W.webp"
+      },
+      {
+        "product": "Monitor gamer AOC 27G2 led 27 \" preto 100V/240V",
+        "price": "1737,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-aoc-27g2-led-27-preto-100v240v/p/MLB18099769?pdp_filters=category:MLB99245#searchVariation=MLB18099769&position=13&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_649512-MLA48049378455_102021-W.webp"
+      },
+      {
+        "product": "Monitor Acer KG1 KG241P led 24 \" preto 100V/240V",
+        "price": "1740,00",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=XukEM0fFJIvtGcRKc5oxdaZNX0SsL6a2MuNKOARNGi6%2Bdg0du5QRZadE4ojo1AzrlbdOUT%2BO%2Bizhahz7BubVFQQCCb0mrIi88404C957TFbYq14Gm7ry8budAJcreu4Tu6mW3wVK0NkCduflXp9kZzxVEzzAb0UT73ec7gfmppLRBHFNWx0czFXTnuAHq9HFdxceTrjayA%2B9fylNZ5u0h8YHn%2Fyk1Yen8PtqbXzDQnuHkqaRs9ndJZBpN8UErJuYOkdduxJ%2FxanUzKgN5Qh1DmtbB24UYmb8eJT8%2FYF3lJ9Fo8kiO1gHtFIF2Y0V7ftAzf%2Fkg9oIVuC6xGWYOlYwl8DtS7hOwsp2wzFDGniZH5aNpE%2Bjravk3zdafkICQSC7FLsco66O6BAEadE1G3Mz2TVoAp9QkTfULPJKhAF4oMwJYPY%2FXI%2FkiPRylPUyb5UWo1p7vbB4G3VgGSlazMAs%2BedH6oGr%2Bi0QmoqK1GOTd%2FYrZXjT2rDGYotcVeLS2C1GSmTwhO7waM8IMt9eMRIPT%2Fw4Lu77ogHm2L2LemBj1xxgV8sZFb2mrGTrJKDIGWYlnmrJ7Dz%2B8EKgfghuyX5HcflqjTtHNo%2Bwb2EliSDWLFkZ%2F8rAr4Grs9e%2BL2J9wuSUhf%2FuLxUnTSt6LKZuaqGZ9BZqrAkk9KvRKynJxfjAEnBa2kF1KLomtUvO37XYq85LO7U94rCN5V5QZPzCwq5%2FMvJuV0QOUf%2BLvQ%3D%3D&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_914651-MLA32998262180_112019-W.webp"
+      },
+      {
+        "product": "Monitor Gamer Asus Tuf 23.8' Ips, 165 Hz, Full Hd - Vg249q1r",
+        "price": "1747,00",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=puKjCJ785GriTwsxGYny%2BPfJ4Ba8moP9Izccq9Fp7bXr4boWJg5poaJawiuX9e317C4MWQUjyOpAfPya5hl76q7l5xUTsccoTxhXWVs0x0j%2Fd87gU%2BbmkIvx%2BNaLkttYRDogXOfrrLas%2BMggNJOXQ1DmCCTcP0%2BUP03uGxl5Dyjys82aq9sT57MVW2EF6JvD80IYbJCvxGbcINszVMYZC3DrNRW3PT%2FozDr4DfbFZbcnvTaEpT6BIZaOhvXmx0mbviMz753%2FDoOh2Z%2BxutVU8pl4u4n1CudgjAroD0OJApDfB3qM106%2FZk3rqCj9C%2FmPFzqCvL82WQ9u%2BuD1IPn0ds4FckUnvd1upfSGJMNNzO6FNeRQNWgL56hsgBxxLYSJldML%2BfpGLk0pFz6cthmh5rLmyeiFvlkJNKRKnIjo1%2FsO5XAAaUy4eXNsguKiM27kPa325Ae90A54bogOumGgCbCsssieWGpOZs6VFFTc3yytZ6T%2Bf7G6urKmU3hBq%2BVOdDjnvF48W7ncgOGq%2BxXKcxp0nbBJrVcx7EcH5FztrKygjF015LulIQx40lMBDLCRyJrT67DDHsnf3ZpazAf2IjBG%2BuNzYbGKPeq0%2FbGMdj87QCdz%2FbBPtrhKw3aT4vpRJ6y2oB8KOlOzAb40&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_832782-MLB48938773609_012022-W.webp"
+      },
+      {
+        "product": "Monitor Dell UltraSharp U2422H led 24 \" preto e prata 100V/240V",
+        "price": "1766,00",
+        "link": "https://www.mercadolivre.com.br/monitor-dell-ultrasharp-u2422h-led-24-preto-e-prata-100v240v/p/MLB18472116?pdp_filters=category:MLB99245#searchVariation=MLB18472116&position=50&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_911534-MLA48810646736_012022-W.webp"
+      },
+      {
+        "product": "Monitor gamer Asus TUF Gaming VG279QR led 27 \" preto 100V/240V",
+        "price": "1899,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-asus-tuf-gaming-vg279qr-led-27-preto-100v240v/p/MLB18523274?pdp_filters=category:MLB99245#searchVariation=MLB18523274&position=51&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_837946-MLA47932686667_102021-W.webp"
+      },
+      {
+        "product": "Monitor gamer curvo AOC C27G2ZE led 27 \" preto e vermelho 100V/240V",
+        "price": "1952,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-curvo-aoc-c27g2ze-led-27-preto-e-vermelho-100v240v/p/MLB18576654?pdp_filters=category:MLB99245#searchVariation=MLB18576654&position=48&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_960834-MLA48170486535_112021-W.webp"
+      },
+      {
+        "product": "Monitor gamer LG 27UL500 led 27 \" branco 100V/240V",
+        "price": "1970,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-lg-27ul500-led-27-branco-100v240v/p/MLB15461390?pdp_filters=category:MLB99245#searchVariation=MLB15461390&position=7&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_706753-MLA45212511237_032021-W.webp"
+      },
+      {
+        "product": "Monitor gamer curvo AOC Agon AG323FCXE led 31.5 \" preto 100V/240V",
+        "price": "2042,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-curvo-aoc-agon-ag323fcxe-led-315-preto-100v240v/p/MLB18223416?pdp_filters=category:MLB99245#searchVariation=MLB18223416&position=14&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_819721-MLA47602444309_092021-W.webp"
+      },
+      {
+        "product": "Monitor gamer LG UltraGear 27GN750 led 27 \" preto 100V/240V",
+        "price": "2088,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-lg-ultragear-27gn750-led-27-preto-100v240v/p/MLB18463015?pdp_filters=category:MLB99245#searchVariation=MLB18463015&position=42&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_998539-MLA48049386781_102021-W.webp"
+      },
+      {
+        "product": "Monitor gamer curvo GameMax GMX27C144 led 27 \" preto 100V/240V",
+        "price": "2350,00",
+        "link": "https://click1.mercadolivre.com.br/mclics/clicks/external/MLB/count?a=OC2%2FdVZNKOm8qFGRp3CwphyPS70b7y4yl%2FsXNEVCZiKOJsQL7YbxHBVY3uz8FdbTECcGxFd1GBDA8YIeFDCrNqZX6GNBr5m8LRlHFNwKTPVztqu%2BF%2FdmsBs5zc78HiaDSz%2FtLq7%2F9GNnooRyQcxbGfdZ71V%2BiwuSzVwhocYQQkz6rjR%2F4z76AyzU3vpnpbq3CqmhTWFyVK5I1tqJbcw%2BVX7Ur1ejCYwTTT1%2BxXDlQGoCDuThOn1XqkB%2B07Md9Usm5OKbJxUDo8o%2FagYM%2B6bJcuWNBww8V3cNf0zKyA8C5aoEu6cSgqomMyKkDDYKMzmZnqPNvC1uH6o16m3ic0MY6j7AavkLFm8TNoBhyDIL5UweuX8XviH%2Bx2M9uXOsOeV%2BLKbeYzBGZtHGihJxKXo59DKTVnrL2G3kc59YqBYTDrrn23weaEkl1J0F%2F4SKunOqEyV%2FIvuIks8it11Ryq3KqhEBO6WymHnphBSkki7Kdrb2GPBz%2FIh7yVgeqP7OFV7rG61TfEmeHURI4qLLpExJpLAkPdnRSpx1p%2BPNQRO15LWjh1SOEdK2201%2BORKfcf%2B0Lz0puQTj%2BMQT%2FkGoAK65%2BdsgyHEOPJ5kkzMKkILeir0rp5USuMiIT9y9Dj%2F7PvWG3oM7oG%2BKc4Rl1ObYDzgoOZPm0mj2gPmicrbkgSRI81ba0MjFOz9By30YKEEg6ePHbNM%2FGEQHznTn8QENRbI36k7mVINCQPMIpO3FHPNUiVWqP29v8uJl&rb=x",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_762467-MLA32045267189_092019-W.webp"
+      },
+      {
+        "product": "Monitor gamer curvo Asus TUF Gaming VG32VQ1B led 31.5 \" preto 100V/240V",
+        "price": "2488,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-curvo-asus-tuf-gaming-vg32vq1b-led-315-preto-100v240v/p/MLB18926710?pdp_filters=category:MLB99245#searchVariation=MLB18926710&position=41&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_729641-MLA49106170423_022022-W.webp"
+      },
+      {
+        "product": "Monitor gamer curvo Samsung Odyssey LC49G95TS Qled 49 \" preto 100V/240V",
+        "price": "11754,00",
+        "link": "https://www.mercadolivre.com.br/monitor-gamer-curvo-samsung-odyssey-lc49g95ts-qled-49-preto-100v240v/p/MLB18565183?pdp_filters=category:MLB99245#searchVariation=MLB18565183&position=39&search_layout=grid&type=product&tracking_id=d0ee907b-ceaa-48fc-9a24-542e9704f956",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_988577-MLA48689385380_122021-W.webp"
+      }
+    ]
+  ]
+}
